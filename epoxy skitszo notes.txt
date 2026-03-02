@@ -1,0 +1,58 @@
+
+
+Inputs rn:
+Sodium hydroxide
+Oil
+Chlorine
+Hydrogen
+phosphoric acid
+oxygen
+=================
+end:
+1 x MOLTEN EPOXID
+2 x salt water
+------------------- no circuit
+6x sodium hydroxide
+2x phenol                                
+2x epichlorohydrin                       Clear
+1x hydrochloric acid                     Clear
+1x acetone                               XXXXX
+
+=========================
+1 x epichlorohydrin:
+1 x salt water
+1 x hydrochloric acid       
+--------------------- 23 circuit
+3 x sodium hydroxide                     Clear
+1 x propene                              XXXXX
+4 x chlorine                             Clear
+1 x water                                Clear
+
+
+Lightfuel - chem -- crack -- distill
+naphta - chem - crack - distill
+heavy - chem - distill
+
+
+
+propene - 400x for moderate steem cracked naphta
+- 250x for severley stema cracked light fuel
+
+light fuel - propene
+naphta - propene
+heavy fuel - phenol
+gas - void
+=========================
+PLUH PLUH PLUUUHHHH AAAANNNN
+
+oil distillation turns heavy fuel into
+Benzene >>>> acetone and more phenol >>> molten a stuff
+Toluene >>>> Infinite Itnt
+Phenol >>>> molten a stuff
+
+Crack light fuel into lots and lots of stuff
+Most important:
+propene >> Epijamanebvenene
+heavy fuel >> earlier
+benzene >> earlier
+toluene >> earlier
